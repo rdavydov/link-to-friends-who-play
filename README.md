@@ -2,7 +2,7 @@
 
 https://greasyfork.org/en/scripts/450407-link-to-friends-who-play-on-the-deleted-games-pages?locale_override=1
 
-*Link to "friends who play" on the deleted games' pages.*
+***Steam Website** - Link to "friends who play" on the deleted games' pages.*
 
 Adds a link to "friends who play" page on the deleted games' pages.
 
