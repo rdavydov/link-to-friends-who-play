@@ -1,6 +1,6 @@
 # link-to-friends-who-play
-![](https://img.shields.io/github/license/rdavydov/link-to-friends-who-play?style=for-the-badge&logo=github&color=purple&logoColor=green)
-![](https://img.shields.io/greasyfork/dt/450407?style=for-the-badge&logo=tampermonkey&color=blue&logoColor=orange)
+![](https://img.shields.io/github/license/rdavydov/link-to-friends-who-play?style=for-the-badge&logo=github&color=purple&logoColor=thistle)
+![](https://img.shields.io/greasyfork/dt/450407?style=for-the-badge&logo=tampermonkey&color=darkblue&logoColor=aquamarine)
 
 https://greasyfork.org/en/scripts/450407-link-to-friends-who-play-on-the-deleted-games-pages?locale_override=1
 
